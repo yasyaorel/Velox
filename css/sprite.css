@@ -1,0 +1,43 @@
+/* -- logo-design --*/
+
+#logo-design .st0 {
+    fill: #FEFEFE;
+}
+
+#logo-design .st1 {
+    fill: #0095FF;
+}
+
+
+/* -- web-design --*/
+
+#web-design {
+    width: 43px;
+    height: 34px;
+}
+
+#web-design .cls-1 {
+    fill-rule: evenodd;
+    filter: url(#filter);
+}
+
+
+/* -- branding --*/
+
+#branding {
+    width: 512px;
+    height: 512px;
+}
+
+
+/* -- illustration --*/
+
+#illustration {
+    width: 42px;
+    height: 49px;
+}
+
+#illustration .cls-1 {
+    fill-rule: evenodd;
+    filter: url(#filter);
+}
